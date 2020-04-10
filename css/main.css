@@ -28,7 +28,7 @@ a{
 }
 .container-h{
 	width: 1920px;
-	height: 7763px;
+	height: 7593px;
 	font-family: 'Open Sans', sans-serif;
 	margin: 0 auto;
 	position: relative;
@@ -154,6 +154,9 @@ a{
 }
 .header-call-us:hover .header-call-us-bg{
 	width:800px;
+}
+.header-call-us:hover a{
+	text-decoration: none;
 }
 .header-call-us-bg{
 	width: 200px;
@@ -386,7 +389,9 @@ margin-left: 1000px;
 	
 
 }
-
+.header-text-button:hover a{
+	text-decoration: none;
+}
 
 /*						END		header-button*/
 
@@ -452,7 +457,9 @@ margin-left: 1000px;
 	color:white;
 	transition-delay: 0.5s;
 }
-
+.body_text-title-button:hover a{
+	text-decoration: none;
+}
 .body_img{
 	width: 982px;
 	height: 738px;
@@ -721,7 +728,9 @@ margin-left: 1000px;
 	color:white;
 	transition-delay: 0.5s;
 }
-
+.body_do-you-text-title-button:hover a{
+	text-decoration: none;
+}
 .body_do-you-lock{
 	margin-top: 60px;
 }
