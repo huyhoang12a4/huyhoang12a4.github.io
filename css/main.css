@@ -866,6 +866,30 @@ box-shadow:
 	height: 654px;
 	margin: 0 auto;	
 }
+.body_gallery-img-box-1{
+	position: relative;
+}
+.gallerry-lable-1{
+	width: 263px;
+	height: 343px;
+	position: absolute;
+	text-align: center;
+	margin-top: -368px;
+	line-height: 343px;
+	opacity: 0;
+	color:#36aeea;
+}
+.body_gallery-img-box-1 .gallerry-lable-1{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-1:hover .gallerry-lable-1{
+	opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
+}
 .body_gallery-img-box-1 img{
 		 transition:all 0.3s ease;
 	-webkit-transform: scale(1.1);
@@ -875,10 +899,34 @@ box-shadow:
 .body_gallery-img-box-1:hover img{
 		-webkit-transform: rotateZ(-5deg);
         -ms-transform: rotateZ(-5deg);
-        transform: rotateZ(-5deg);
-		
+        transform: rotateZ(-5deg);		
 }
 
+.body_gallery-img-box-2{
+	position: relative;
+}
+.gallerry-lable-2{
+	width: 263px;
+	height:282px;
+	line-height: 281px;
+	position: absolute;
+	margin-top: -306px;
+	text-align: center;
+	opacity: 0;
+	color:#36aeea;
+	
+}
+.body_gallery-img-box-2 .gallerry-lable-2{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-2:hover .gallerry-lable-2{
+		opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
+}
 .body_gallery-img-box-2 img{
 		 transition:all 0.3s ease;
 	-webkit-transform: scale(1.1);
@@ -889,6 +937,32 @@ box-shadow:
 		-webkit-transform: rotateZ(-5deg);
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
+}
+
+
+.body_gallery-img-box-3{
+	position: relative;
+}
+.gallerry-lable-3{
+	width: 361px;
+	height: 381px;
+	position: absolute;
+	text-align: center;
+	line-height: 381px;
+	color:#36aeea;
+	margin-top: -408px;
+	opacity: 0;
+}
+.body_gallery-img-box-3 .gallerry-lable-3{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-3:hover .gallerry-lable-3{
+		opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
 }
 .body_gallery-img-box-3 img{
 		 transition:all 0.3s ease;
@@ -901,6 +975,32 @@ box-shadow:
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
 }
+
+.body_gallery-img-box-4{
+	position: relative;
+}
+
+.gallerry-lable-4{
+	width: 361px;
+	height:243px;
+	line-height: 243px;
+	position: absolute;
+	margin-top: -270px;
+	text-align: center;
+	opacity: 0;
+	color:#36aeea;	
+}
+.body_gallery-img-box-4 .gallerry-lable-4{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-4:hover .gallerry-lable-4{
+		opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
+}
 .body_gallery-img-box-4 img{
 		 transition:all 0.3s ease;
 	-webkit-transform: scale(1.1);
@@ -912,6 +1012,32 @@ box-shadow:
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
 }
+
+
+.body_gallery-img-box-5{
+	position: relative;
+}
+.gallerry-lable-5{
+	width: 457px;
+	height: 343px;
+	position: absolute;
+	text-align: center;
+	line-height: 343px;
+	color:#36aeea;
+	margin-top: -368px;
+	opacity: 0;
+}
+.body_gallery-img-box-5 .gallerry-lable-5{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-5:hover .gallerry-lable-5{
+		opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
+}
 .body_gallery-img-box-5 img{
 		 transition:all 0.3s ease;
 	-webkit-transform: scale(1.1);
@@ -922,6 +1048,33 @@ box-shadow:
 		-webkit-transform: rotateZ(-5deg);
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
+}
+
+
+.body_gallery-img-box-6{
+	position: relative;
+}
+.gallerry-lable-6{
+	width: 456px;
+	height: 281px;
+	position: absolute;
+	text-align: center;
+	line-height: 281px;
+	opacity: 0;
+	color:#36aeea;
+	margin-top: -306px;
+	
+}
+.body_gallery-img-box-6 .gallerry-lable-6{
+	position: all 0.3s linear;
+}
+.body_gallery-img-box-6:hover .gallerry-lable-6{
+		opacity: 1;
+	background-color:rgba(195,195,195,0.5);
+		-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
+	transition-delay: 0.2s;
 }
 .body_gallery-img-box-6 img{
 		 transition:all 0.3s ease;
