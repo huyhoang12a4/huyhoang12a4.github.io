@@ -101,7 +101,7 @@ a{
 	height: 35px;
 }
 #header-menu ul li:hover p{
-	
+	 color: #36aeea;
 }
 #header-menu ul li ul{
 	position: absolute;
